@@ -16,6 +16,8 @@ pip的freeze命令用于生成将当前项目的pip类库列表生成 requiremen
 
 ## 其他
 
-取消所有 socks 代理
+[pip设置代理](https://zhuanlan.zhihu.com/p/110945788)
+
+### 取消所有 socks 代理
 
 `unset all_proxy && unset ALL_PROXY`
